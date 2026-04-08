@@ -1,15 +1,13 @@
-# Code_Crushers_Q1 
 
-Project number: 1 
 <br>
-<bold>Resume Keyword Ranker<bold>
+<bold>Resume Keyword Filter<bold>
 <br>
 <br>
 <bold>Team Code Crushers<bold>
 <br>
 Members:
 <br>
-1. Bhati Urmila(Team Lead)
+1. Bhati Urmila
 2. Budige Priyanka
 3. Choulkar Bhargavi
 <br>
