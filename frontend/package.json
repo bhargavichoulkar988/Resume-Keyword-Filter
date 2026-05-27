@@ -1,9 +1,13 @@
 {
   "name": "resume-ranker",
   "version": "1.0.0",
+  "homepage": "https://github.com/bhargavichoulkar988/Resume-Keyword-Filter.git",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+    
   },
   "dependencies": {
     "react": "^18.2.0",
